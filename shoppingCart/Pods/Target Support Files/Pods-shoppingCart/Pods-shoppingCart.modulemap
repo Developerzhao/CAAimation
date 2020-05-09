@@ -1,0 +1,6 @@
+module Pods_shoppingCart {
+  umbrella header "Pods-shoppingCart-umbrella.h"
+
+  export *
+  module * { export * }
+}
